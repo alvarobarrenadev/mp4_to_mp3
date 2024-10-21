@@ -1,7 +1,6 @@
 import os
 from moviepy.editor import VideoFileClip
 
-
 def convert_mp4_to_mp3(input_folder, output_folder):
     # Verificar si la carpeta de entrada existe
     if not os.path.exists(input_folder):
