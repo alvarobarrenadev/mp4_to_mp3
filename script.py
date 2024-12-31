@@ -38,6 +38,6 @@ def convertir_mp4_a_mp3(carpeta_entrada, carpeta_salida):
                 print(f"Error inesperado con {video_path}: {str(e)}")
 
 if __name__ == "__main__":
-    carpeta_entrada = "videos"  # Ruta relativa de la carpeta de videos
+    carpeta_entrada = "videos"  # Ruta relativa de la carpeta de entrada
     carpeta_salida = "audios"  # Ruta relativa de la carpeta de salida
     convertir_mp4_a_mp3(carpeta_entrada, carpeta_salida)
