@@ -1,5 +1,4 @@
 # MP4 to MP3 Converter
----
 
 This project provides a Python script to convert MP4 video files to MP3 audio files using `ffmpeg-python`.
 
