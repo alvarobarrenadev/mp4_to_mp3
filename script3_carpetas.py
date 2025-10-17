@@ -1,3 +1,5 @@
+# pip install ffmpeg-python
+
 import os
 import ffmpeg
 from concurrent.futures import ThreadPoolExecutor
